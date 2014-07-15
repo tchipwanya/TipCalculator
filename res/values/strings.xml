@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="bill">Total Bill:</string>
+    <string name="tip">Tip (%):</string>
+    <string name="total">Total To Be Paid:</string>
+    <string name="tipPerPerson">Tip Per Person:</string>
+    <string name="perPerson">Total Per Person:</string>
+    <string name="subButton">-</string>
+    <string name="addButton">+</string>
+    <string name="split">Split Bill:</string>
+    <string name="resetButton">Reset</string>
+    <string name="calculateButton">Calculate</string>
+	<string name="defaultBill">$0.00</string>
+	<string name="defaultPeople">1</string>
+	<string name="defaultTip">15</string>
+	<string name="billPerPerson">Bill Per Person:</string>
+	<string name="totalTip">Total Tip:</string>
+</resources>
